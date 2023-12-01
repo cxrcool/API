@@ -1,5 +1,7 @@
 # 流浪猫API
 流浪猫API全站开源
+最新源码请访问
+https://gitee.com/cxr-cool/Pic-API
 ## 使用
 - 下载源码放入网站根目录，访问[域名]即可
 - API地址为`[域名]/img`
